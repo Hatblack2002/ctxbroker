@@ -13,3 +13,9 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 keywords = ["code", "search", "termux", "sqlite", "ripgrep"]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ctxbroker*"]
+exclude = []
