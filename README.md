@@ -1,3 +1,21 @@
+
+<p align="center">
+  <img src="assets/logo.png" alt="ctxbroker logo" width="160">
+</p>
+
+<h1 align="center">ctxbroker</h1>
+
+<p align="center">
+  <em>Lightweight code search for AI agents on Termux.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue" alt="Python">
+  <img src="https://img.shields.io/badge/sqlite-FTS5-green" alt="SQLite FTS5">
+  <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License">
+</p>
+
+---
 # ctxbroker
 
 ![ctxbroker Logo Placeholder](https://via.placeholder.com/300x150?text=ctxbroker+logo)
