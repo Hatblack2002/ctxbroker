@@ -1,0 +1,1 @@
+"""ctxbroker - lightweight code search CLI for Termux."""

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ctxbroker"
+version = "0.1.0"
+description = "Lightweight code search for Termux"
+authors = [
+    {name = "Hatblack2002", email = "vertiljivenson7@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+keywords = ["code", "search", "termux", "sqlite", "ripgrep"]
